@@ -11,9 +11,9 @@ desc: >
   I believe the power of everyday-10-minuet
 
 # posts
-date_format: "%Y"
+date_format: "%b %-d, %Y"
 post_title: Story
-post_date: Year
+post_date: Date
 post_cat: Genre
 
 # post detail
