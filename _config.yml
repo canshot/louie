@@ -1,15 +1,14 @@
 # site
-title: Louie
-baseurl: "/louie"
-url: "http://lily.work"
+title: Jaewan Lim
+baseurl:
+url: "http://canshot.github.io"
 favicon: "/assets/sample/ico.png"
-g_analytics: UA-12345678-1
+g_analytics:
 
 # bio
-header: Louie
+header: Jaewan Lim
 desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+  I believe the power of everyday-10-minuet
 
 # posts
 date_format: "%Y"
