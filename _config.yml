@@ -10,7 +10,7 @@ header: Jaewan Lim
 desc: I believe in the power of everyday-10-minuet
 
 # posts
-date_format: "%b %-d, %Y"
+date_format: "%b %-d %Y"
 post_title: Story
 post_date: Date
 post_cat: Genre
