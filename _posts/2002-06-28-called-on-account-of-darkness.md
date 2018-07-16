@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  thank you message for Github abd Lily
+title:  thank you message for Github and Lily
 author: 
 category: thx
 img: https://images.unsplash.com/photo-1473655551229-a39d1a982885?dpr=1&auto=format&fit=crop&w=1500&h=998&q=80&cs=tinysrgb&crop=
