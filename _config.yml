@@ -18,10 +18,6 @@ post_date: Date
 # post detail
 prev-next: true
 
-# Pagination
-paginate: 5
-paginate_path: "page:num"
-
 # build settings
 markdown: kramdown
 # theme: louie
