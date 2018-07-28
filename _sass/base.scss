@@ -72,6 +72,18 @@ body {
   margin: 0 25px;
 }
 
+.copyright {
+  margin: 0 25px;
+  font-size: $small-font-size;
+  font-family: $code-font-family;
+  p {
+    color: $grey-color;
+    a, a:visited {
+      color: $grey-color-dark;
+    }
+  }
+}
+
 // media queries
 @include media-query($on-palm) {
   body {
