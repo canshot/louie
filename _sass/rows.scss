@@ -134,3 +134,16 @@
     }
   }
 }
+
+
+.copyright {
+  margin-top: $spacing-unit;
+  font-size: $small-font-size;
+  font-family: $code-font-family;
+  p {
+    color: $grey-color;
+    a, a:visited {
+      color: $grey-color-dark;
+    }
+  }
+}
