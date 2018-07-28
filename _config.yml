@@ -19,8 +19,8 @@ post_date: Date
 prev-next: true
 
 # Pagination
-paginate: 3
-paginate_path: "/page/:num/"
+paginate: 5
+paginate_path: "page:num"
 
 # build settings
 markdown: kramdown
