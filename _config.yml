@@ -1,19 +1,19 @@
 # site
-title: Jaewan Lim
+title: Daily Cool Stuff
 baseurl:
 url: "http://canshot.github.io"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-122935697-1
 
 # bio
-header: Jaewan Lim
-desc: I believe in the power of everyday-10-minute.
+header: Daily Cool Stuff
+desc: 글로벌 테크 비즈니스 소식을 매일 하나씩. 
 
 # posts
 date_format: "%b %-d %Y"
 post_title: Story
 post_date: Date
-post_cat: Genre
+#post_cat: Genre
 
 # post detail
 prev-next: true
