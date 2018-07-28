@@ -1,12 +1,12 @@
 # site
-title: Daily Cool Stuff
+title: Daily Cool-Stuff
 baseurl:
 url: "http://canshot.github.io"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-122935697-1
 
 # bio
-header: Daily Cool Stuff
+header: Daily Cool-Stuff
 desc: 글로벌 테크 소식을 매일 하나씩. 
 
 # posts
